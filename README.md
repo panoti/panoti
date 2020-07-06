@@ -3,5 +3,5 @@
 </p>
 
 <p>
-  I'm just a boring software engineer :zzz: from HCMC :house:. 
+  I'm just a boring :zzz: software engineer from HCMC :house:.
 </p>
