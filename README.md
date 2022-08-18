@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  I'm just a boring :zzz: software engineer from SG :house:.
+  I'm just a boring :zzz: software engineer from Saigon :house:.
 </p>
 
 <h2>Some my remarkable repos</h2>
