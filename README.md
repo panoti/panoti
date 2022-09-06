@@ -9,7 +9,7 @@
 <h2>Some my remarkable repos</h2>
 <h3>Angular Components</h3>
 
-* [ngx-uploader](https://github.com/angular-ex/uploader) - fork version for angular 13
+* [ngx-uploader](https://github.com/angular-ex/uploader) - fork version for angular 14
 
 <h3>NestJs Modules</h3>
 
