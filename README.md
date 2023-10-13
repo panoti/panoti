@@ -11,6 +11,7 @@
 
 * [ngx-uploader](https://github.com/angular-ex/uploader) - fork version for angular 16
 * [ngx-condition-builder](https://github.com/angular-ex/ngx-condition-builder) - fork version for angular 15
+* [ngx-semantic-ui](https://github.com/angular-ex/ngx-semantic-ui) - fork version for angular 16
 
 <h3>NestJs Modules</h3>
 
